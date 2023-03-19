@@ -30,8 +30,8 @@ DATABASE_DB=films
 ### Clone projects
 
 ```
-git clone https://github.com/SilantievMax/...
-cd ...
+git clone https://github.com/SilantievMax/posgresql-nodejs.git
+cd posgresql-nodejs
 npm install
 npm run dev (для разработки)
 npm start (для продакшин)
